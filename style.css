@@ -1,0 +1,13 @@
+body {
+  min-height: 100vh;
+  margin: 0;
+  display: grid;
+  place-items: center;
+  font: 16px system-ui, sans-serif;
+  color: #333;
+  background: #fff;
+}
+
+a {
+  color: inherit;
+}
